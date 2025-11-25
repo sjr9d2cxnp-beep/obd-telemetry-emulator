@@ -79,8 +79,9 @@ will look chaotic.
 Refresh the page to get new 
 data points.
 
-Once you are done, close out the terminal windows. Next open a new one and run this command:
-Remove-Item -Recurse -Force "C:\Users\drake\obd-telemetry-emulator"
+Once you are done, close out the terminal windows. Next open a new one and run these commands:
+cd..
+Remove-Item -Recurse -Force "C:\Users\YOURCOMPUTERUSER\obd-telemetry-emulator"
 
 This will delete the cloned project from your computer.
 
