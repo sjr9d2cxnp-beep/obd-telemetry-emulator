@@ -1,10 +1,10 @@
 {
-  "rpm": 900,
-  "coolant_temp_c": 187,
-  "speed_mph": 0,
-  "throttle_pct": 18.2,
-  "intake_air_temp_c": 32,
+  "rpm": 2000,
+  "coolant_temp_f": 195.0,
+  "speed_mph": 70.0,
+  "throttle_pct": 25.0,
+  "intake_air_temp_f": 68.0,
   "fuel_trim_short_pct": -1.1,
   "fuel_trim_long_pct": -0.5,
-  "engine_load_pct": 29.5
+  "engine_load_pct": 35.0
 }
