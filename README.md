@@ -1,5 +1,5 @@
 
-#This code now lives in the consolidated repo: connected-ops-lab
+# This code now lives in the consolidated repo: connected-ops-lab
 
 
 # Telemetry Emulator — Connected Ops Lab Module
